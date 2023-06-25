@@ -1,5 +1,5 @@
+// รับข้อมูลเลขฐานสิบ แปลงข้อมูลเป็นเลขฐานสอง
 #include <stdio.h>
-#include <math.h>
 
 void decimalToBinary(int decimal) {
   int binary[32];

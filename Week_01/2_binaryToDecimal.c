@@ -1,3 +1,4 @@
+// รับข้อมูลเลขฐานสอง แปลงข้อมูลเป็นเลขฐานสิบ
 #include <stdio.h>
 
 void binaryToDecimal(long long binary) {
