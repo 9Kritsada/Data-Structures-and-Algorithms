@@ -1,3 +1,6 @@
 /Test
 *.exe
 *.mp4
+*.docx
+*/img
+*.cmd
