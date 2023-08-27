@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-
+  
 double power( double m, int n ) {
   double x, y;
   if( n > 0 ) {
